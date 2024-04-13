@@ -1,5 +1,30 @@
 <resources>
     <string name="app_name">aguadatos-frontend</string>
+    <string name="aguadatos">AguaDatos</string>
+
+    <!-- activity_initial -->
+    <string name="title_initial">Initial</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+
+    <!-- activity_login -->
+    <string name="title_login">Login</string>
+    <string name="welcome">Welcome Back!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="lock">Lock icon</string>
+    <string name="person">Person icon</string>
+    <string name="or_separator">" Or "</string>
+
+    <!-- activity_signup -->
+    <string name="title_signup">Signup</string>
+    <string name="account_prompt">Create an account</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <!-- activity_home -->
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
